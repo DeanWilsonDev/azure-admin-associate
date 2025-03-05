@@ -1,0 +1,12 @@
+﻿Name,                          Service 
+01-azure-virtual-network,      Azure Virtual Network
+02-azure-dns,                  Azure DNS
+03-azure-application-gateway,  Azure Application Gateway,
+04-azure-load-balancer,        Azure Load Balancer,
+05-azure-vpn-gateway,          Azure VPN Gateway,
+06-azure-virtual-machines,     Azure Virtual Machines,
+07-azure-app-service,          Azure App Service, 
+08-azure-container-instances   Azure Container Instances, 
+09-azure-kubernetes-service,   Azure Kubernetes Service, 
+10-azure-blob-service,         Azure Blob Storage, 
+11-azure-entra-id,             Azure Entra ID,
