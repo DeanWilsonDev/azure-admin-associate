@@ -2,4 +2,4 @@
 
 ## Cheat Sheet
 
-[Azure VPN Gateway](https://tutorialsdojo.com/azure-vpn-gateway/)
+[Azure VPN Gateway Tutorials Dojo Cheat Sheet](https://tutorialsdojo.com/azure-vpn-gateway/)

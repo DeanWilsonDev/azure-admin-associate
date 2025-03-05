@@ -2,4 +2,4 @@
 
 ## Cheat Sheet
 
-[Azure Load Balancer](https://tutorialsdojo.com/azure-load-balancer/)
+[Azure Load Balancer Tutorials Dojo Cheat Sheet](https://tutorialsdojo.com/azure-load-balancer/)

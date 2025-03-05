@@ -2,4 +2,4 @@
 
 ## Cheat Sheet
 
-[Azure DNS](https://tutorialsdojo.com/azure-dns/)
+[Azure DNS Tutorials Dojo Cheat Sheet](https://tutorialsdojo.com/azure-dns/)
