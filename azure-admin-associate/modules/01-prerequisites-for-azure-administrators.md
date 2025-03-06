@@ -1,1 +1,0 @@
-# Prerequisites for Azure Administrators

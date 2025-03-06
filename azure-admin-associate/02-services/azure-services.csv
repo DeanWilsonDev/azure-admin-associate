@@ -1,0 +1,13 @@
+﻿Name                      ,File Name                       
+Azure Virtual Network     ,01-azure-virtual-network.md     
+Azure DNS                 ,02-azure-dns.md                 
+Azure Application Gateway ,03-azure-application-gateway.md 
+Azure Load Balancer       ,04-azure-load-balancer.md       
+Azure VPN Gateway         ,05-azure-vpn-gateway.md         
+Azure Virtual Machines    ,06-azure-virtual-machines.md    
+Azure App Service         ,07-azure-app-service.md         
+Azure Container Instances ,08-azure-container-instances.md 
+Azure Kubernetes Service  ,09-azure-kubernetes-service.md  
+Azure Blob Storage        ,10-azure-blob-service.md        
+Azure Files               ,11-azure-files.md               
+Azure Entra ID            ,12-azure-entra-id.md            
