@@ -1,0 +1,15 @@
+{
+  "cards": [{
+    "question": "You download an Azure resourse Manager template based on an existing Virtual machine. The template will be used to deploy 100 virtual machines. You need to modify the template to reference an administrative password. You must prevent the password from being stored in plain text.<br>What should you create to store the password?",
+    "options": ["A. Azure Storage account and access policy", "B. Azure Key vault and access policy", "C. Azure AD identity protection and Azure policy","D. Recovery services vault and backup policy"],
+    "answers": ["B. Azure Key vault and access policy"],
+    "explanation": "When handling passwords in Azure, be sure to use a secrets manager, this is what Azure Key Vault is for"
+  },
+  {
+    "question": "",
+    "options": ["", "", "", ""],
+    "answers": ["B. Azure Key vault and access policy"],
+    "explanation": "When handling passwords in Azure, be sure to use a secrets manager, this is what Azure Key Vault is for"
+  }
+  ]
+}
