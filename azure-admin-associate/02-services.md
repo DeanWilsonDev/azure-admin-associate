@@ -28,7 +28,7 @@ To comprehend the different scenarios in the exam, you should have a thorough un
 
 [Azure Kubernetes Service](02-services/azure-services/10-azure-kubernetes-service.md) - the difference between ACI and AKS, the configuration of AKS
 
-[Azure Blob Service](02-services/azure-services/11-azure-blob-storage.md) - you need to learn how to configure storage accounts, import/export data, storage tiers, replication, and authentication
+[Azure Blob Storage](02-services/azure-services/11-azure-blob-storage.md) - you need to learn how to configure storage accounts, import/export data, storage tiers, replication, and authentication
 
 [Azure Files](02-services/azure-services/12-azure-files.md) - learn how to create a file share, file sync, and copy data using AZCopy
 

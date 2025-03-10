@@ -48,10 +48,20 @@
 ### Software as a Service (SaaS)
   - Least amount of management
   - The cloud provider is responsible for managing everything, and the end-user just uses the software.
-
 ### Serverless Computing
   - Function as a Service (FaaS)
   - You simply deploy the code with a serverless platform, and it runs at high availability.
   - Dynamically scales up and down to meet the demands of each workload within seconds.
   - a pay-per-execution model that charges sub-second billing only for the time and resources required to execute the code.
+## Best Practices when Architecting in the Cloud
+- **Design for self healing** - Design you application to be self-healing in the event of a failure.
+- **Make all things redundant** - Design a resilient and highly available application to avoid single points of failure.
+- **Minimize coordination** - To achieve scalability, you must minimize coordination between application services.
+- **Design to scale out** - Design an application that can scale horizontally (adding or removing new instances) as needed. 
+- **Partition around limits** - Use partition for database, network, and compute limits
+- **Design for operations** - The operations team must be able to ccess the tools they need for the application.
+- **Use managed services** - When designing an application, use PaaS rathan than IaaS.
+- **Use the best data store for the job** - Select the storage technology that is most appropriate for your data and it's intended use.
+- **Design for evolution** - An evolutionary design is required for continuous innovation
+- **Build for the needs of the business** - Always consider the business requirements when designing an application
 

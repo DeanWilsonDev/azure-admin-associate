@@ -36,4 +36,9 @@
     - **Developer** - recommended for non-production environments. Limited access to technical support during business hours by email only
     - **Standard** - appropriate for production work environments. 24/7 access to Azure technical support
     - **Professional Direct** - suitable for business-critical workloads. Has 24/7 access to all of Azure's Support options
-
+## Azure Well-Architected Framework - Five Pillars
+- **Operational Excellence** - run and monitor systems to deliver business value and to continually improve supporting processes and procedures.
+- **Reliability** - recover the system from infrastructure or service disruptions, dynamically acquire computing resources to meet demand, and mitigate disruptions such as misconfigurations or transient network issues.
+- **Performance Efficiency** - use computing resources efficiently to meet system requirements and to maintain that efficiency as demand changes and technologies evolve.
+- **Cost Optimisation** - avoid or eliminate unnecessary costs or suboptimal resources.
+- **Security** - protect information, systems, and assets while delivering business value through risk assessments and mitigation strategies.

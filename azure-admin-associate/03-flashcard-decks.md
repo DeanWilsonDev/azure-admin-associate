@@ -4,9 +4,9 @@ Here is a collection of flashcards in the form of Anki decks and raw CSV files t
 
 # Raw CSV
 
-[Prerequisites for Azure Administrators](flashcards/prerequisites-for-azure-administrators-flashcards.csv)
+[Prerequisites for Azure Administrators](03-flashcard-decks/prerequisites-for-azure-administrators-flashcards.csv)
 
-[Practice Questions](flashcards/practice-questions.md)
+[Practice Questions](03-flashcard-decks/practice-questions.csv)
 
 # Anki
 
