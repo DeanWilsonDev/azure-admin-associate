@@ -4,6 +4,7 @@
 
 1. [Microsoft Learn](https://learn.microsoft.com/en-us/training/) – This website provides different learning paths for various Microsoft certifications. For the AZ-104 certification exam, you can focus on the following course: 
     - [Course AZ-104T00-A: Microsoft Azure Administrator](https://learn.microsoft.com/en-us/training/courses/az-104t00)
+        
         Modules:
         - [Prerequisites for Azure administrators](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/)
         - [Manage identities and governance in Azure](https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/)
