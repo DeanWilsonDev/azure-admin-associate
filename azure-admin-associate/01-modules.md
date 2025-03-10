@@ -4,8 +4,8 @@ The AZ-104 Microsoft Azure Administrator Exam has five areas to asses your skill
 
 - Manage Azure Identities and Governance (15-20%)
 - Implement and Manage Storage (15-20%)
-- Deploy and Manage Azure Compute Resources (20-25%)
-- Configure and Manage Virutal Networking (20-25%)
+- Deploy and manage Azure Compute Resources (20-25%)
+- Configure and manage virtual networking (20-25%)
 - Monitor and Back Up Azure Resources (10-15%)
 
 ## Prerequisites
@@ -14,7 +14,7 @@ The AZ-104 Microsoft Azure Administrator Exam has five areas to asses your skill
 
 ## Domains:
 
-[Manage Identities and Governance](01-modules/02-manage-identities-and-goverance-in-azure.md)
+[Manage Identities and Governance](01-modules/02-manage-identities-and-governance-in-azure.md)
 
 - Microsoft Entra ID objects
 - Manage role-based access control (RBAC)
